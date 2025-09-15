@@ -1,0 +1,10 @@
+# Requires Tidal Club Sample Pack https://slab.org/tmp/samples-extra.zip
+
+d1 $ n "0 2"
+  # sound "cpu"
+
+d2 $ n "4*4"
+  # sound "cpu"
+
+d3 $ n "<[~ [~ 5 ~ 0]] [[~ 0] 3]>"
+  # sound "cpu"
