@@ -1,4 +1,12 @@
 d1 $ sound "<~ sn:1>*4"
+
 d2 $ sound "<hh hh [hh hh hh hh]>*3"
-d3 $ sound "bd bd bd bd" # vowel "a o p p" # gain "1 0.7 1.4 0.6"
-d4 $ sound "<~ [kurt:4 kurt:4]*16>" # shape "0.5 0.78" # gain "0.5" # vowel "o p"
+
+d3 $ sound "bd bd bd bd"
+  # vowel "a o p p"
+  # gain "1 0.7 1.4 0.6"
+
+d4 $ sound "<~ [kurt:4 kurt:4]*16>"
+  # shape "0.5 0.78"
+  # gain "0.5"
+  # vowel "o p"
